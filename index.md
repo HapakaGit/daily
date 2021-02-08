@@ -1,93 +1,95 @@
 ---
-title: About Alembic
+title: About HAPAKA
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## HAPAKA (HA yoojin + alPAKA)
+  W E B D E V E L O P E R
+feature_image: "/assets/images/laptop.jpg"
+excerpt: "I am currently working at KBS MEDIA as a WEB DEVELOPER. My career objective is developing KBS websites and also Web application which is KBS RADIO KONG. Main
+programming languages are JS, react, angular, jquery, php, JAVA spring framework,
+electron framework with AWS cloud system. I able to effectively self-manage during
+independent projects, as well as collaborate in a team setting. Also i am a fast learner with a great work ethic and the ability to work independently or with others."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am currently working at KBS MEDIA as a WEB DEVELOPER. 
+My career objective is developing KBS websites and also Web application which is KBS RADIO KONG. <br>
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+Main programming languages are JS, react, angular, jquery, php, JAVA spring framework,electron framework with AWS cloud system. <br>
 
-## Features
+I able to effectively self-manage during independent projects, as well as collaborate in a team setting. Also i am a fast learner with a great work ethic and the ability to work independently or with others.
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+{% include button.html text="Github" icon="github" link="https://github.com/hapakacode" color="#272928" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%ED%95%98-798290151/" color="#0366d6" %} {% include button.html text="Daily Blog" link="https://hapaka.tistory.com/" color="#db750f" %} 
 
-## Examples
+## Employment History
+---------------------------------------------------------
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+#### Full-Stack Web Developer, KBS MEDIA, Seoul
+<small>January 2018 - present</small>
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+* Mainly developed KBS websites (http://local.kbs.co.kr , http://about.kbs.co.kr) and KBS Radio Web Application "KONG" (http://radio.kbs.co.kr/kong.html ) 
+* Main functions of websites and web app: onair, vod, aod streaming services,chatting system, data provided from admin page 
+* Experience with jwplayer, react-player, HTML5 Video player with hls.js
+* Able to customize control bar in player
+* Developed uploading contents system from admin pages 
+* Experience transcoding system by using aws mediaconvert 
+* Expose contents by using API that provides final authorization url after calling api with authorization token(api key)
+* Experience with statistics tools such as Kibana, firebase etc.. 
+* Setting API Server in Cloud circumstances(AWS) 
+* Excellent communication, organization and team working skills rapid adaptability to new tasks and environment
+* Planned, developed, tested, deployed, and maintained web applications. 
+* Provided effective troubleshooting and remediation for web applications. 
+* Worked well independently and within a team setting. 
+* Effectively translated client requirements into application systems requirements. 
+* Organized and prioritized work to complete assignments in a timely, efficient manner.
+* Worked to solve complex problems using the latest in Web Technologies.
+* Effectively multi-tasked and worked well with internal and external teams.
 
-## Installation
+<br>
 
-### Quick setup
+## Education
+---------------------------------------------------------
+#### Bachelor of Computer Science, University of Auckland, Auckland
+<small>February 2016 — September 2017</small>
+* Relevant modules: Image Processing with 3D graphic, UI, Web
+application, XML, SQL, HTTP, Data communication, IT Security, API,
+Operating System
+* Language (html, css, java script, C#, LC 3, python)
+* Participate NZPC Programming contest
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+#### Bachelor of Technology with Honours in Optoelectronics, University of Auckland, Auckland
+<small>Feb 2014 – Nov 2015</small>
+* Relevant modules: Programming in C/C++ languages, Matlab, Python,
+Circuits/Filters, Transmission lines EM waves, Optical and Photonic
+components, Advanced laboratory Experiments
+* Certification of Outstanding Academic Achievement MATH 108
+* Achieve Scholarship (Southern Photonics Undergraduate Scholarships)
+<br>
+<br>
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+## AWARDS/CERTIFICATINS
+---------------------------------------------------------
+#### ENGINEER INFORMATION PROCESSING LICENSE
+<small>August 2019</small>
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+<br>
+<br>
 
-### As a Jekyll theme
+## Internships
+---------------------------------------------------------
+#### Intern, National Instrument Korea, Seoul
+<small>January 2017 — February 2017</small>
+* Relevant modules: Labview and DAQ with vision and sensors
+* Trained presentation skills
+* Achieved CLAD certification
+* Achieved “Outstanding intern” prize
+  
+#### GOOGLE STUDY JAMES, Coursera & Qwiklabs, Seoul
+<small>January 2019 — April 2019</small>
+* Achieve Kubernets in the google cloud
+* Achieve Getting started with google kubernetes Engine 
+* Achieve Launching into Machine Learning
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+#### MSA (MICROSOFT STUDENT ACCELERATION), MICROSOFT, Auckland
+<small>August 2016 — December 2016</small>
+* Relevant modules: (All in the Azure Cloud Computing) 
+* Phase 1: web development with using HTML/CSS/java- script/API 
+* Phase 2: Mobile development with visual studio Xamarin/bot framework
