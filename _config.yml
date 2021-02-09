@@ -29,7 +29,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-redirect-from
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-commonmark
   - jekyll-include-cache
   - jemoji
