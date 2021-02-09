@@ -58,7 +58,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: "Asia/Seoul" # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -81,6 +81,7 @@ defaults:
       type: "posts"
     values:
       layout: post # Set the default layout for posts
+      comments: true
   - scope:
       path: ""
       type: "pages"
@@ -89,11 +90,11 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: ko_KR # Set the site language
 title: "Hapaka" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Site url, also used in jekyll-seo-tag
+description: "Hapaka's devlog" # Site description and default description, also used in jekyll-seo-tag
+url: "http://hapakacode.com/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/hapakacode/hapakacode.github.io"
 email: "hyj0522kl994@gmail.com"
