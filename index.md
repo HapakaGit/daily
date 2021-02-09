@@ -3,7 +3,7 @@ title: About HAPAKA
 feature_text: |
   ## HAPAKA (HA yoojin + alPAKA)
   W E B D E V E L O P E R
-feature_image: "/assets/images/laptop.jpg"
+feature_image: "https://user-images.githubusercontent.com/18584136/107367486-b3879780-6b22-11eb-80e4-83e452fb3636.jpg"
 excerpt: "I am currently working at KBS MEDIA as a WEB DEVELOPER. My career objective is developing KBS websites and also Web application which is KBS RADIO KONG. Main
 programming languages are JS, react, angular, jquery, php, JAVA spring framework,
 electron framework with AWS cloud system. I able to effectively self-manage during
