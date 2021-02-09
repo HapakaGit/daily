@@ -1,4 +1,4 @@
-# [Hapaka's devlog](hapakacode.github.io) 
+# [Hapaka's devlog](http://hapakacode.com/) 
 hosted by Yoojin HA (Hapaka)
 <br>
 
