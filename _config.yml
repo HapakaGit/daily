@@ -94,7 +94,7 @@ lang: ko_KR # Set the site language
 title: "Hapaka" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Hapaka's devlog" # Site description and default description, also used in jekyll-seo-tag
-url: "http://hapakacode.com/" # Site url, also used in jekyll-seo-tag
+url: "http://hapakacode.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/hapakacode/hapakacode.github.io"
 email: "hyj0522kl994@gmail.com"
