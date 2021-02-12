@@ -119,6 +119,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
   - title: Home
     url: /
+  - title: Projects
+    url: /projects/
   - title: Devlog
     url: /blog/
   - title: Categories
@@ -132,7 +134,7 @@ navigation_header:
 
 navigation_footer:
   - title: Created by Yoojin HA
-    url: https://hapakacode.github.io
+    url: https://hapakacode.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%ED%95%98-798290151/
