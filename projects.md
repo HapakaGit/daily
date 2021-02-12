@@ -14,7 +14,7 @@ jekyll theme, ruby, markdown etc..
 
 * Created jekyll theme blog fork from [alembic](https://github.com/daviddarnes/alembic).
 * Keep developing sites with posts.
-* Linked 
+
 
 -------------
 
