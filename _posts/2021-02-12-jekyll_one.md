@@ -1,9 +1,9 @@
 ---
-title: jekyll theme 적용하기
+title: 깃허브 블로그 jekyll theme 적용하기
 categories:
 - jekyll
 excerpt: |
-  지킬테마 적용하기 - Alembic Theme
+  깃허브 블로그 지킬테마 적용하기 - Alembic Theme
 feature_text: |
   ## Alembic 지킬 테마 적용하기
   나만의 블로그 만들기 위한 첫번째 이야기
