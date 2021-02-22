@@ -1,10 +1,10 @@
 ---
-title: About HAPAKA
+title: About HAPAKA | 하파카에 대해
 feature_text: |
-  ## HAPAKA (HA yoojin + alPAKA)
-  W E B D E V E L O P E R
+  ## HAPAKA (HA yoojin + alPAKA) 
+  W E B D E V E L O P E R | 웹 개발자
 feature_image: "https://user-images.githubusercontent.com/18584136/107367486-b3879780-6b22-11eb-80e4-83e452fb3636.jpg"
-excerpt: "Welcome to hapaka's devlog!"
+excerpt: "Hapaka's devlog | 하파카의 기술 블로그"
 ---
 
 I am currently working at KBS MEDIA as a WEB DEVELOPER. 

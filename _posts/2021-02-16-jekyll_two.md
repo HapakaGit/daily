@@ -1,11 +1,11 @@
 ---
-title: 깃허브 블로그 GA , 댓글 기능, 이메일 기능 추가
+title: 깃허브 블로그 - GA , 댓글 기능, 이메일 기능 추가
 categories:
-- jekyll
+- Github_Blog
 excerpt: |
   지킬 기능 추가하기 - Alembic Theme
 feature_text: |
-  ## Alembic 내 설정된 기능 추가하기
+  ## 지킬 테마 Alembic에 기능 추가하기
   나만의 블로그 만들기 위한 두번째 이야기
 feature_image: "https://user-images.githubusercontent.com/18584136/107729908-79daaa80-6d35-11eb-95aa-41ab8624639b.jpg"
 image: ""

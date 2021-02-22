@@ -63,11 +63,11 @@ timezone: "Asia/Seoul" # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: IT 관련 지식 # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "공유하고 싶은 이야기" # The post list page content
     feature_text: |
-      ## Welcome to the Hapaka's devlog
+      ## 하파카의 기술 블로그
     feature_image: "https://user-images.githubusercontent.com/18584136/107367463-ac608980-6b22-11eb-9e25-c38f4d905ed5.jpg"
 
 # 6. Jekyll collections settings

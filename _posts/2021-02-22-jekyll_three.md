@@ -1,9 +1,9 @@
 ---
-title: 깃허브 블로그 구글, 네이버, 다음 검색 사이트 등록하기
+title: 깃허브 블로그 - 구글, 네이버, 다음 검색 사이트 등록하기
 categories:
-- jekyll
+- Github_Blog
 excerpt: |
-  검색에 깃허브 블로그 등록하기 - Alembic Theme
+  검색에 사이트 등록하기 - Alembic Theme
 feature_text: |
   ## 구글, 네이버, 다음 검색 사이트 등록하기
   나만의 블로그 만들기 위한 세번째 이야기
